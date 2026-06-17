@@ -1,0 +1,16 @@
+year,subreddit_source,total_posts,growth_arc_count,growth_arc_pct,low_sample_size
+2018,solofemaletravellers,3,1,33.3,True
+2019,solofemaletravellers,20,6,30.0,True
+2020,solofemaletravellers,10,4,40.0,True
+2021,femaletravels,22,0,0.0,True
+2021,solofemaletravellers,9,1,11.1,True
+2022,femaletravels,277,30,10.8,False
+2022,solofemaletravellers,20,3,15.0,True
+2023,femaletravels,479,66,13.8,False
+2023,solofemaletravellers,89,14,15.7,False
+2024,femaletravels,2097,333,15.9,False
+2024,solofemaletravellers,265,53,20.0,False
+2025,femaletravels,3079,574,18.6,False
+2025,solofemaletravellers,820,173,21.1,False
+2026,femaletravels,337,57,16.9,False
+2026,solofemaletravellers,596,146,24.5,False
